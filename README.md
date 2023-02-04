@@ -1,2 +1,3 @@
-# rate-your-mentory-form
-A form to rate your mentory
+# Rate your mentory
+
+This is a form for rating a mentory course.
